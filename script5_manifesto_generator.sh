@@ -29,7 +29,7 @@ read -p "2. In one word, what does 'freedom' mean to you? " FREEDOM
 read -p "3. Name one thing you would build and share freely: " BUILD
 
 # --- Variables for metadata ---
-DATE=$(date '+%d %B %Y')          # e.g. "20 March 2026"
+DATE=$(date '+%d %B %Y')          # e.g. "28 March 2026"
 AUTHOR=$(whoami)                   # Username of the person running the script
 OUTPUT="manifesto_${AUTHOR}.txt"  # Output filename derived from username
 

@@ -24,7 +24,7 @@ This repository contains the capstone project for the Open Source Software cours
 ## Repository Structure
 
 ```
-oss-audit-24BOE10040/
+OSS-Project-24BOE10038/
 │
 ├── README.md                           # This file - Project documentation
 │
@@ -178,7 +178,7 @@ The scripts use standard Linux utilities that are typically pre-installed:
 git clone https://github.com/[username]/oss-audit-24BOE10040.git
 
 # Navigate to the repository
-cd oss-audit-24BOE10040
+cd OSS-project-24BOE10038
 ```
 
 ### Step 2: Make Scripts Executable
@@ -282,7 +282,7 @@ Python is released under the PSF License, which is a permissive open-source lice
 
 All scripts in this repository are released for educational purposes as part of the Open Source Software course capstone project.
 
-The project report and documentation are original work by **Shinjan Sain** (Registration No: 24BOE10040).
+The project report and documentation are original work by **Avyagata Medda** (Registration No: 24BOE10038).
 
 ---
 
@@ -300,8 +300,8 @@ The project report and documentation are original work by **Shinjan Sain** (Regi
 ## Contact
 
 For questions about this project:
-- **Name:** Shinjan Sain
-- **Registration Number:** 24BOE10040
+- **Name:** Avyagata Medda
+- **Registration Number:** 24BOE10038
 - **Course:** Open Source Software
 
 ---

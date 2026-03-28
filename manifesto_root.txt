@@ -1,0 +1,26 @@
+================================================================
+  MY OPEN SOURCE MANIFESTO
+  Author : root
+  Date   : 28 March 2026
+================================================================
+
+I am a part of a world built on openness. Every day, I rely on
+python — a tool that someone chose to build in the open and share
+freely, not for profit, but because they believed that knowledge
+belongs to everyone. That act of generosity shapes everything I do.
+
+To me, freedom means independence. In the context of software, that
+word is not abstract — it is the right to read the code that runs
+my computer, to change it when it does not serve me, and to share
+those changes with others who might benefit. Without that freedom,
+technology becomes a cage instead of a tool.
+
+I commit to contributing to this tradition. One day, I will build
+ai and release it openly — not to gain credit, but because
+the open-source community gave me everything I know, and the only
+honest response to that gift is to pass it forward.
+
+The software I write will be free as in freedom.
+
+  — root, 28 March 2026
+================================================================
